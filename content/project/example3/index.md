@@ -8,7 +8,7 @@ links:
 slides: 
 summary: (Click on title for abstract)
 tags:
-- Deep Learning
+- Demo
 title: Did referent credentials really help in the placement of Ph.D. candidates on the job market? Evidence with Covid-19?
 url_code: 
 url_pdf: ""
