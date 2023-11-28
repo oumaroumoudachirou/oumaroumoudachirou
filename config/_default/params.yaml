@@ -10,8 +10,8 @@ appearance:
   theme_night: minimal
   #font: minimal
   font: 'custom_font'
-  #font_size: L
-  font_size: S
+  #font_size: L S M
+  font_size: M
 
 
 # SEO
