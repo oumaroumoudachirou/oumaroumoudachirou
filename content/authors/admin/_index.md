@@ -45,4 +45,6 @@ title: Moudachirou Oumarou
 ---
 
 Welcome to my website! I am a PhD candidate in Economics at University of Montreal. My research lies at the intersection of environmental economics and quantitative macroeconomics. I study the effect of climate mitigation policies on industry dynamics. Specifically, I study the implication of threshold-based exemptions from carbon tax and how compliance with offset credits shape the distribution of firms' size. 
+
+I am on the 2023-2024 economics job market. I would be delighted to speak with you about my research! 
 {style="text-align: justify;"}
