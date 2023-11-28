@@ -8,7 +8,7 @@ links:
 slides: 
 summary: (Click on title for abstract)
 tags:
-- Deep Learning
+- Demo
 title: Offset Provision and firms size distribution
 url_code: 
 url_pdf: ""
