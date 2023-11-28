@@ -11,9 +11,9 @@ sections:
     buttons:
     - name: All
       tag: '*'
-    - name: Working paper
+    - name: JMP
       tag: Deep Learning
-    - name: Policy report
+    - name: Working Papers
       tag: Demo
     default_button_index: 0
     filters:
