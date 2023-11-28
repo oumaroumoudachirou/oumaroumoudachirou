@@ -1,5 +1,5 @@
 ---
-date: "2020-09-01T01:20:00Z"
+date: "2021-09-01T01:20:00Z"
 external_link: "http://www.finances.gouv.qc.ca/ministere/outils_services/consultations_publiques/communaute_universitaire_economique/2020_2021_relance_economique.asp"
 image:
   placement: 1
