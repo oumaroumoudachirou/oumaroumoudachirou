@@ -1,5 +1,5 @@
 ---
-date: "2023-07-10T00:00:00Z"
+date: ""
 external_link: 
 image:
   caption: 
@@ -9,7 +9,7 @@ slides:
 summary: (Click on title for abstract)
 tags:
 - Deep Learning
-title: Threshold-based-exemption in environmental regulation and firms dynamics 
+title: Threshold-based-exemption in environmental regulation and firms dynamics (JMP)
 url_code: 
 url_pdf: "https://udemontreal-my.sharepoint.com/:b:/r/personal/guillaume_sublet_umontreal_ca/Documents/Economics/Teaching/Macro%20workshop/Moudachirou/GHG/JMP_Mouda.pdf?csf=1&web=1&e=aT3sYQ"
 url_slides: ""
