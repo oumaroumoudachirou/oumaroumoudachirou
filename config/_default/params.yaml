@@ -29,7 +29,7 @@ marketing:
     google_tag_manager: ''
     microsoft_clarity: ''  
   verification:
-    google: ''
+    google: '0c3f28f397706736'
     baidu: ''
 
 # Site header
@@ -111,7 +111,8 @@ extensions:
     branch: main
     local_backend: false
   academicons:
-    enable: true
+    #enable: true
+    enable: false
 
 # Security
 
