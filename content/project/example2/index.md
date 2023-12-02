@@ -11,7 +11,7 @@ tags:
 - Deep Learning
 title: Threshold-based-exemption in environmental regulation and firms dynamics (JMP)
 url_code: 
-url_pdf: "https://udemontreal-my.sharepoint.com/:b:/r/personal/guillaume_sublet_umontreal_ca/Documents/Economics/Teaching/Macro%20workshop/Moudachirou/GHG/JMP_Mouda.pdf?csf=1&web=1&e=aT3sYQ"
+url_pdf: "https://udemontreal-my.sharepoint.com/:b:/g/personal/moudachirou_oumarou_umontreal_ca/ER18W3g1GNFFsmgGkmw3SUYBT4ghf59E21NOXKv57HT-Yw?e=ARANrP"
 url_slides: ""
 url_video: ""
 ---
